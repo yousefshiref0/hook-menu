@@ -14,8 +14,9 @@ const menuData = {
     { name: 'French Coffee', size: 'Double', price: '44' }
   ],
   "Non Coffee": [
-    { name: 'Tea', size: 'Standard', price: '45' },
-    { name: 'Green Tea', size: 'Standard', price: '48' },
+    { name: 'Tea', size: 'Standard', price: '30' },
+    { name: 'Green tea', size: 'Standard', price: '35' },
+    { name: 'Yanson', size: 'Standard', price: '35' },
     { name: 'Karak Tea', size: 'Medium', price: '45' },
     { name: 'Karak Tea', size: 'Large', price: '58' },
     { name: 'Vitamine C', size: 'Medium', price: '42' },
@@ -139,7 +140,7 @@ const menuData = {
     { name: 'Quatro Berry', size: 'Standard', price: '77' },
     { name: 'Cola', size: 'Standard', price: '75' },
     { name: 'Mix Berry', size: 'Standard', price: '75' },
-    { name: 'Hook (Orange-Passion-Peach-Pineapple)', size: 'Standard', price: '80' },
+    { name: 'Hook (Orange - Passion - Peach - Pineapple)', size: 'Standard', price: '80' },
     { name: 'Choco Lovers', size: 'Standard', price: '77' },
     { name: 'Pinacolada', size: 'Standard', price: '80' }
   ],
