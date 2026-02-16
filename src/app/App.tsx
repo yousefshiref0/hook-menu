@@ -159,6 +159,7 @@ const menuData = {
   ],
   "Cake": [
     { name: 'Chocolate Cake', size: 'Standard', price: '67' },
+    { name: 'Molten Cake', size: 'Standard', price: '75' },
     { name: 'Nutella Cake', size: 'Standard', price: '82' },
     { name: 'Cheese Cake', size: 'Standard', price: '60' },
     { name: 'San Sebestian', size: 'Standard', price: '73' },
